@@ -5,8 +5,6 @@ categories: [cryptocurrency]
 excerpt: Cryptocurrency is awesome. At some point we all hear about that, the media is talking, our friends are talking and some important people agree that this is the future. So, in the beginning of this year I decided put myself into this and see if the future is really that awesome
 ---
 
-![alt text](/images/2017-07-16-5-things-I-learned-investing-in-Bitcoin/1_9cEzBZSi9TLpkzuKcojK1w.png)
-
 Cryptocurrency is awesome. At some point we all hear about that, the media is talking, our friends are talking and some important people agree that this is the future. So, in the beginning of this year I decided put myself into this and see if the future is really that awesome. I didn’t knew much about the market, or exchanges, or wallets, or trading (and I still don’t know much about this). But before we dive into my experience, let’s talk a bit more about Bitcoin.
 
 Bitcoin is a form of digital currency, created by a person (or group) under the pseudonym Satoshi Nakamoto in the paper “Bitcoin: A Peer-to-Peer Electronic Cash System”. The platform is built on the concept of “proof of work” data that is expensive and time-intensive to produce but can be easily verified. In Bitcoin’s case, proof of work is created through the process of “mining.” To mine a bitcoin, a computer must complete a complicated algorithm, essentially going through the work of an extensive calculation in exchange for some newly minted currency.
