@@ -18,4 +18,4 @@ My research today focuses on how to use machine learning to solve problems and i
 I work as a Software Engineer at Vinta Software, we are a software studio based in Brazil. In the past, I've worked building and scaling web applications, but now my work is to build a reliable structure to the execution of machine learning pipelines.
 
 ### Personal
-For fun, I like to ride my motorcycle, watch some surf, and follow my home football [team](https://www.instagram.com/nauticope/)⚽🇵🇪. I also read lots of books and curse some people related to politics on twitter.
+For fun, I like to ride my motorcycle, watch some surf, and follow my home football [team](https://www.instagram.com/nauticope/)⚽🇵🇪. I also read lots of books and curse some people related to brazilian politics on twitter.
