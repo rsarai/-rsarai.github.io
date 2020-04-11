@@ -63,18 +63,6 @@ h2 {
   font-size: 24px;
 }
 
-@media (min-width: 769px){
-	.post h2::before, .post h2::after {
-	    content: "";
-	    display: inline-block;
-	    vertical-align: middle;
-	    width: 46px;
-	    height: 1px;
-	    background: rgb(192, 211, 218);
-	    margin: 0px 30px;
-	}
-}
-
 h3 {
   font-size: 20px;
 }
@@ -86,6 +74,10 @@ h4 {
 
 p {
   margin: 0 0 30px 0;
+
+  > .small {
+    font-size: 12px;
+  }
 }
 
 table {
@@ -380,13 +372,13 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1.8em 1.8em;
     /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
-    color: $gray;
+    color: #323232;
     font-size: 22px;
     font-style: italic;
-    background-color: #ede1ff;
+    background-color: #0d7377;
   }
 
   .you-may-like{

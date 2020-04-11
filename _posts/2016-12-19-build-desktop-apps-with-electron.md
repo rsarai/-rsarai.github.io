@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Build desktop apps with Electron and Angular 2
-categories: [Javascript,Electron]
+categories: [javascript,electron]
 excerpt: This week I was in face of a challenge. I had to build a simple desktop application that gives for the user a combinatorial analysis of a number sequence. With the timeline of one day. I ended up doing in Java, using Swing (Yeah, I know, not the best way to do it, but at the moment I just keep thinking simple is always better). Along the way, I find out an awesome platform for build desktop applications call Electron.
 ---
 
