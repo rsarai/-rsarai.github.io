@@ -4,9 +4,6 @@ title: Active Recall Questions
 permalink: /questions/
 ---
 
-
-# Table of Contents
-
 1.  [Feature Selection](#orge7593b5)
 2.  [Correlation-based Feature Subset Selection&#x2026;](#orgf6232c4)
 3.  [English](#orgf761b2d)
@@ -20,7 +17,7 @@ permalink: /questions/
 
 <a id="orge7593b5"></a>
 
-# Feature Selection
+## Feature Selection
 
 -   What is the difference between feature selection and feature extraction?
 -   What is a greedy method?
@@ -28,7 +25,7 @@ permalink: /questions/
 
 <a id="orgf6232c4"></a>
 
-# Correlation-based Feature Subset Selection&#x2026;
+## Correlation-based Feature Subset Selection&#x2026;
 
 -   What is a heuristics?
 -   How the first best search algorithm works?
@@ -40,14 +37,14 @@ permalink: /questions/
 
 <a id="orgf761b2d"></a>
 
-# English
+## English
 
 -   What the word **foes** mean?
 
 
 <a id="org0ea0913"></a>
 
-# Python Concurrency
+## Python Concurrency
 
 -   True or False? I/O-Bound programs spend a lot of time doing computations
 -   Which type of concurrency is best for CPU-bound programs?
@@ -63,7 +60,7 @@ permalink: /questions/
 
 <a id="org29a7276"></a>
 
-# Machine Learning
+## Machine Learning
 
 -   What is generalization?
 -   How to estimate the generalization ability?
@@ -84,7 +81,7 @@ permalink: /questions/
 
 <a id="org84d2161"></a>
 
-# Statistics
+## Statistics
 
 -   What is probability?
 -   What is membership?
@@ -102,7 +99,7 @@ permalink: /questions/
 
 <a id="orgbef308a"></a>
 
-# Statistics of Feature Selection
+## Statistics of Feature Selection
 
 -   What is the problem of feature selection for statistics?
 -   What is a null distribution?
@@ -128,7 +125,7 @@ permalink: /questions/
 
 <a id="orgdf14265"></a>
 
-# Algorithms
+## Algorithms
 
 -   What is a deterministic algorithm?
 -   What is a nondeterministic algorithm?
