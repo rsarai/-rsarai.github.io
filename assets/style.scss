@@ -32,7 +32,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 840px;
   padding: 0 10px;
   width: 100%;
 }
@@ -376,13 +376,17 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em 1.8em;
+    margin: 1.8em 3.8em 1.8em 1.8em;
     /*border-left: 2px solid $gray;*/
-    padding: 0.1em 1em;
-    color: #323232;
-    font-size: 22px;
-    font-style: italic;
-    background-color: #0d7377;
+    padding: 0.5em 1em;
+    color: #282a36;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #50fa7b;
+
+    p {
+      margin: unset;
+    }
   }
 
   .you-may-like{
