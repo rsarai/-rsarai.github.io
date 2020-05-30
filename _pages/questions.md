@@ -4,28 +4,46 @@ title: Active Recall Questions
 permalink: /questions/
 ---
 
-1.  [Feature Selection](#orge7593b5)
-2.  [Correlation-based Feature Subset Selection&#x2026;](#orgf6232c4)
-3.  [English](#orgf761b2d)
-4.  [Python Concurrency](#org0ea0913)
-5.  [Machine Learning](#org29a7276)
-6.  [Statistics](#org84d2161)
-7.  [Statistics of Feature Selection](#orgbef308a)
-8.  [Algorithms](#orgdf14265)
+You found this page, congrats! I use it as study material, some links are broken because they point to my personal note system.
+
+
+> When learning is hard, you’re doing important work.
+>
+> <cite>Make It Stick</cite>
+
+Researches show that re-reading, note taking or cramming are effective study techniques. What makes things stick is being actively engaged with the content, therefore the list of questions. I try to test myself on subjects I want to remeber, I also do a interleaved and varied practice.
+
+> Repeated effortful recall or practice helps integrate learning into mental models, in which a set of interrelated ideas or a sequence of motor skills are fused into a meaningful whole that can be adapted and applied in later settings&#x2026; When practice conditions are varied or retrieval is interleaved with the practice of other material, we increase our abilities of discrimination and induction and the versatility with which we can apply the learning in new settings at a later date.
+>
+> <cite>Make It Stick</cite>
 
 
 
-<a id="orge7593b5"></a>
 
-## Feature Selection
+1.  [Feature Selection](#org7f94ab0)
+2.  [Correlation-based Feature Subset Selection&#x2026;](#org2ce4c47)
+3.  [English](#org41312b4)
+4.  [Python Concurrency](#org8d2a88f)
+5.  [Machine Learning](#orgdca234a)
+6.  [Statistics](#org1c686f6)
+7.  [Statistics of Feature Selection](#orge28f0fc)
+8.  [Algorithms](#org43a365f)
+9.  [Complex Systems](#org024910a)
+10. [Programming](#orgfd924a7)
+
+
+
+<a id="org7f94ab0"></a>
+
+# [Feature Selection](20200307083655_feature_selection.md)
 
 -   What is the difference between feature selection and feature extraction?
 -   What is a greedy method?
 
 
-<a id="orgf6232c4"></a>
+<a id="org2ce4c47"></a>
 
-## Correlation-based Feature Subset Selection&#x2026;
+# [Correlation-based Feature Subset Selection&#x2026;](20200315154338_2000hall.md)
 
 -   What is a heuristics?
 -   How the first best search algorithm works?
@@ -35,16 +53,18 @@ permalink: /questions/
 -   What is one of the test theory about good features from Ghiselli 1964?
 
 
-<a id="orgf761b2d"></a>
+<a id="org41312b4"></a>
 
-## English
+# English
 
 -   What the word **foes** mean?
+-   What the word **unascertained** mean?
+-   What the word **tenet** mean?
 
 
-<a id="org0ea0913"></a>
+<a id="org8d2a88f"></a>
 
-## Python Concurrency
+# Python Concurrency
 
 -   True or False? I/O-Bound programs spend a lot of time doing computations
 -   Which type of concurrency is best for CPU-bound programs?
@@ -58,9 +78,9 @@ permalink: /questions/
 -   How asyncio works?
 
 
-<a id="org29a7276"></a>
+<a id="orgdca234a"></a>
 
-## Machine Learning
+# [Machine Learning](20200308140621_machinelearning.md)
 
 -   What is generalization?
 -   How to estimate the generalization ability?
@@ -77,11 +97,14 @@ permalink: /questions/
 -   What is transduction?
 -   What is deduction?
 -   What is bagging?
+-   What is a parametric estimator?
+-   What is a nonparametric estimator?
+-   When to use parametric and nonparametric methods?
 
 
-<a id="org84d2161"></a>
+<a id="org1c686f6"></a>
 
-## Statistics
+# Statistics
 
 -   What is probability?
 -   What is membership?
@@ -97,9 +120,9 @@ permalink: /questions/
 -   What is causality?
 
 
-<a id="orgbef308a"></a>
+<a id="orge28f0fc"></a>
 
-## Statistics of Feature Selection
+# Statistics of Feature Selection
 
 -   What is the problem of feature selection for statistics?
 -   What is a null distribution?
@@ -123,9 +146,27 @@ permalink: /questions/
 -   What characteristics the feature selection problem has that are critical to successful applications of randomization? (Computational Methods of Feature Selection p.59)
 
 
-<a id="orgdf14265"></a>
+<a id="org43a365f"></a>
 
-## Algorithms
+# Algorithms
 
 -   What is a deterministic algorithm?
 -   What is a nondeterministic algorithm?
+
+
+<a id="org024910a"></a>
+
+# Complex Systems
+
+-   What is the focus of the grey system theory?
+-   What is the scientific principle of simplicity?
+-   What is a grey number?
+
+
+<a id="orgfd924a7"></a>
+
+# Programming
+
+-   What is Elixir match operator?
+-   In which scenarios Elixir shines?
+-   How to compare Elixir and Python?
