@@ -35,7 +35,16 @@ ol, ul {
 	list-style: none;
 }
 blockquote, q {
-	quotes: none;
+	margin: 1.8em 3.8em 1.8em 1.8em;
+    padding: 0.5em 1em;
+    color: #282a36;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #50fa7b;
+
+    p {
+      margin: unset;
+    }
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
