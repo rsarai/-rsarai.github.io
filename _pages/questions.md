@@ -3,7 +3,6 @@ layout: page
 title: Active Recall Questions
 permalink: /questions/
 ---
-
 You found this page, congrats! I use it as study material, some links are broken because they point to my personal note system.
 
 
@@ -11,7 +10,7 @@ You found this page, congrats! I use it as study material, some links are broken
 >
 > <cite>Make It Stick</cite>
 
-Researches show that re-reading, note taking or cramming are effective study techniques. What makes things stick is being actively engaged with the content, therefore the list of questions. I try to test myself on subjects I want to remeber, I also do a interleaved and varied practice.
+Researches show that re-reading, note taking or cramming are not effective study techniques. What makes things stick is being actively engaged with the content, therefore the list of questions. I try to test myself on subjects I want to remember, I also do a interleaved and varied practice.
 
 > Repeated effortful recall or practice helps integrate learning into mental models&#x2026; When practice conditions are varied or retrieval is interleaved with the practice of other material, we increase our abilities of discrimination and induction and the versatility with which we can apply the learning in new settings at a later date.
 >
@@ -35,7 +34,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="org7f94ab0"></a>
 
-# [Feature Selection](20200307083655_feature_selection.md)
+## [Feature Selection](20200307083655_feature_selection.md)
 
 -   What is the difference between feature selection and feature extraction?
 -   What is a greedy method?
@@ -43,7 +42,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="org2ce4c47"></a>
 
-# [Correlation-based Feature Subset Selection&#x2026;](20200315154338_2000hall.md)
+## [Correlation-based Feature Subset Selection&#x2026;](20200315154338_2000hall.md)
 
 -   What is a heuristics?
 -   How the first best search algorithm works?
@@ -55,7 +54,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="org41312b4"></a>
 
-# English
+## English
 
 -   What the word **foes** mean?
 -   What the word **unascertained** mean?
@@ -64,7 +63,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="org8d2a88f"></a>
 
-# Python Concurrency
+## Python Concurrency
 
 -   True or False? I/O-Bound programs spend a lot of time doing computations
 -   Which type of concurrency is best for CPU-bound programs?
@@ -80,7 +79,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="orgdca234a"></a>
 
-# [Machine Learning](20200308140621_machinelearning.md)
+## [Machine Learning](20200308140621_machinelearning.md)
 
 -   What is generalization?
 -   How to estimate the generalization ability?
@@ -104,7 +103,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="org1c686f6"></a>
 
-# Statistics
+## Statistics
 
 -   What is probability?
 -   What is membership?
@@ -122,7 +121,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="orge28f0fc"></a>
 
-# Statistics of Feature Selection
+## Statistics of Feature Selection
 
 -   What is the problem of feature selection for statistics?
 -   What is a null distribution?
@@ -148,7 +147,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="org43a365f"></a>
 
-# Algorithms
+## Algorithms
 
 -   What is a deterministic algorithm?
 -   What is a nondeterministic algorithm?
@@ -156,7 +155,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="org024910a"></a>
 
-# Complex Systems
+## Complex Systems
 
 -   What is the focus of the grey system theory?
 -   What is the scientific principle of simplicity?
@@ -165,7 +164,7 @@ Researches show that re-reading, note taking or cramming are effective study tec
 
 <a id="orgfd924a7"></a>
 
-# Programming
+## Programming
 
 -   What is Elixir match operator?
 -   In which scenarios Elixir shines?

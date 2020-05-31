@@ -22,11 +22,12 @@ html {
 
 body {
   background: $siteBackgroundColor;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  // font-family: -system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Courier New', Courier, monospace;
   color: #fff;
   line-height: 1.7;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
   height: 100%;
 }
 
@@ -38,7 +39,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  // font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Courier New', Courier, monospace;
   color: #fff;
   font-weight: bold;
 
@@ -53,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 28px;
   a {
     color: inherit;
   }
@@ -74,6 +76,8 @@ h4 {
 
 p {
   margin: 0 0 30px 0;
+  font-weight: 300;
+  font-size: 16px;
 
   > .small {
     font-size: 12px;
@@ -380,7 +384,7 @@ nav {
     /*border-left: 2px solid $gray;*/
     padding: 0.5em 1em;
     color: #282a36;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Courier New', Courier, monospace;
     background-color: #50fa7b;
 
@@ -458,7 +462,8 @@ body:after {
 }
 
 .post h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  // font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Courier New', Courier, monospace;
   text-align: left;
   font-weight: bold;
   font-kerning: auto;
@@ -467,7 +472,8 @@ body:after {
 }
 
 .page h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  // font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Courier New', Courier, monospace;
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -489,7 +495,8 @@ body:after {
 .cd-container a {
   color: #30434e;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif;
+  // font-family: "Open Sans", sans-serif;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .cd-container img {
@@ -497,7 +504,8 @@ body:after {
 }
 
 .cd-container h1, .cd-container h2 {
-  font-family: "Open Sans", sans-serif;
+  // font-family: "Open Sans", sans-serif;
+  font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
 }
 
