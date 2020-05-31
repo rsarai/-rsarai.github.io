@@ -13,7 +13,7 @@ You found this page, congrats! I use it as study material, some links are broken
 
 Researches show that re-reading, note taking or cramming are effective study techniques. What makes things stick is being actively engaged with the content, therefore the list of questions. I try to test myself on subjects I want to remeber, I also do a interleaved and varied practice.
 
-> Repeated effortful recall or practice helps integrate learning into mental models, in which a set of interrelated ideas or a sequence of motor skills are fused into a meaningful whole that can be adapted and applied in later settings&#x2026; When practice conditions are varied or retrieval is interleaved with the practice of other material, we increase our abilities of discrimination and induction and the versatility with which we can apply the learning in new settings at a later date.
+> Repeated effortful recall or practice helps integrate learning into mental models&#x2026; When practice conditions are varied or retrieval is interleaved with the practice of other material, we increase our abilities of discrimination and induction and the versatility with which we can apply the learning in new settings at a later date.
 >
 > <cite>Make It Stick</cite>
 
