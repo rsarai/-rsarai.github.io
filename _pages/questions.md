@@ -3,14 +3,14 @@ layout: page
 title: Active Recall Questions
 permalink: /questions/
 ---
-You found this page, congrats! I use it as study material, some links are broken because they point to my personal note system.
+Congrats, you found this page! This is my set of study questions, I try to test myself on subjects I want to remember with a interleaved and varied practice. Beware that some links may be broken.
 
 
 > When learning is hard, you’re doing important work.
 >
 > <cite>Make It Stick</cite>
 
-Researches show that re-reading, note taking or cramming are not effective study techniques. What makes things stick is being actively engaged with the content, therefore the list of questions. I try to test myself on subjects I want to remember, I also do a interleaved and varied practice.
+Researches show that re-reading, note taking, and cramming are not effective study techniques. What really makes things stick is being actively engaged with the content; therefore the list of questions.
 
 > Repeated effortful recall or practice helps integrate learning into mental models&#x2026; When practice conditions are varied or retrieval is interleaved with the practice of other material, we increase our abilities of discrimination and induction and the versatility with which we can apply the learning in new settings at a later date.
 >
@@ -29,7 +29,7 @@ Researches show that re-reading, note taking or cramming are not effective study
 8.  [Algorithms](#org43a365f)
 9.  [Complex Systems](#org024910a)
 10. [Programming](#orgfd924a7)
-
+11. [Databases](#org8a2a222)
 
 
 <a id="org7f94ab0"></a>
@@ -169,3 +169,18 @@ Researches show that re-reading, note taking or cramming are not effective study
 -   What is Elixir match operator?
 -   In which scenarios Elixir shines?
 -   How to compare Elixir and Python?
+
+<a id="org8a2a222"></a>
+
+# Databases
+
+-   What are the properties that guarantee accuracy and availability for databases? (ACID)
+-   Why are Referential Integrity constraints important?
+-   How to set up a failover system?
+-   What are the downsides of MYSQL?
+-   What are the good practices of logging in databases?
+-   What is the difference between a database and a database management system?
+-   What are data-intensive applications
+-   Summarize the common needs of applycations into 5 general groups
+-   What is the difference between latency and response time?
+-   What is a percentile?
