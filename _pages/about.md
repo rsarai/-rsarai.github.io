@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi, I'm Rebeca 🙋
 
-By day, I work as a software developer at [Vinta Software](https://vinta.com.br). By night, I'm a masters student in the field of Artificial Intelligence at the [University of Pernambuco](https://en.wikipedia.org/wiki/University_of_Pernambuco).
+By day, I work as a software developer at [Vinta Software](https://vinta.com.br). By night, I'm pursuing a MS in CS at the [University of Pernambuco](https://en.wikipedia.org/wiki/University_of_Pernambuco).
 
 
 ### Research
