@@ -385,8 +385,8 @@ nav {
     padding: 0.5em 1em;
     color: #282a36;
     font-size: 16px;
-    font-family: Rokkitt, 'Courier New', Courier, monospace;
-    background-color: #939493;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
 
     p {
       margin: unset;
@@ -408,7 +408,7 @@ nav {
   }
 
   .read-more {
-    font-size: 15px;
+    font-size: 9px;
     text-decoration: underline;
     letter-spacing: 2px;
     font-weight: bold;
@@ -479,6 +479,10 @@ body:after {
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
+}
+
+.jupyter {
+  background-color: white;
 }
 
 .author_title{
