@@ -2,7 +2,7 @@
 layout: post
 title: Grey Relational Coefficient with Medical Data
 categories:
-excerpt:
+excerpt: Grey Systems Theory is a relatively new field of study used to analyze uncertain and intricate systems. This post applies the Grey Relational Coefficient to gait data of patients with neurodegenerative diseases.
 ---
 
 
@@ -141,11 +141,11 @@ sns.heatmap(correl, annot=True, xticklabels=df.columns, yticklabels=df.columns)
 <img class="jupyter" src="/images/grey-methods/Grey_Relational_Space/grey_confusion_matrix.png" alt="Grey Correlation Matrix of the Gait Dataset"/>
 
 
-The results show a different perspective from the Correlation Coefficient in the first section. Again as expected, the diagonal is 1, however, this time the matrix is not exactly symmetric. As major changes, our lower bound is `0.81` showing that the algorithm considers all the features to be similar, especially the features `Left Swing Interval` and `Right Swing Interval` that scored `0.86` of similarity. The results reflect the nature of gait, both features can be considered similar because they act as a delayed mirror of the other.
+The results show a different perspective of the Correlation Coefficient in the first section. Again as expected, the diagonal is 1, however, this time the matrix is not exactly symmetric. As major changes, our lower bound is `0.81` showing that the algorithm considers all the features to be similar, especially the features `Left Swing Interval` and `Right Swing Interval` that scored `0.86` of similarity. The results reflect the nature of gait, both features can be considered similar because they act as a delayed mirror of the other.
 
 This shows that the grey relational coefficient is a more precise measure of similarity than correlation coefficients for gait data.
 
-- **OBS:** The grey relational coefficient follows four axioms, they are: Norm Interval, **Duality** Symmetric, Wholeness, and Approachability.
+- **OBS:** The grey relational coefficient follows four axioms, they are Norm Interval, **Duality** Symmetric, Wholeness, and Approachability.
 
 
 ## References
