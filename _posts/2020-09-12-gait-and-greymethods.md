@@ -91,7 +91,7 @@ import numpy as np
 # source: https://programmer.group/5e4b66268a670.html
 # full code here: https://github.com/rsarai/grey-relational-analysis
 
-class GrayRelationalCoefficient():
+class GreyRelationalCoefficient():
 
     def __init__(self, data, tetha=0.5, standard=True):
         '''
@@ -130,7 +130,7 @@ Running and checking results:
 K = len(df.columns)
 correl = []
 for i in range(K):
-    model = GrayRelationalCoefficient(df, standard=True)
+    model = GreyRelationalCoefficient(df, standard=True)
     cors = model.get_calculate_relational_coefficient(parent_column=i)
     mean_cors = cors.mean(axis=0)
     correl.append(mean_cors)
@@ -141,11 +141,11 @@ sns.heatmap(correl, annot=True, xticklabels=df.columns, yticklabels=df.columns)
 <img class="jupyter" src="/images/grey-methods/Grey_Relational_Space/grey_confusion_matrix.png" alt="Grey Correlation Matrix of the Gait Dataset"/>
 
 
-The results show a different perspective from the correlations coefficients in the first section. Again as expected, the diagonal is 1, but this time the matrix is not exactly symmetric. As major changes, our lower bound is `0.81` showing that the algorithm considers all the features to be similar, especially for the features `Left Swing Interval` and `Right Swing Interval` that scored `0.86` of similarity. The results reflect the nature of gait, both features can be considered similar because they act as a delayed mirror of the other.
+The results show a different perspective from the Correlation Coefficient in the first section. Again as expected, the diagonal is 1, however, this time the matrix is not exactly symmetric. As major changes, our lower bound is `0.81` showing that the algorithm considers all the features to be similar, especially the features `Left Swing Interval` and `Right Swing Interval` that scored `0.86` of similarity. The results reflect the nature of gait, both features can be considered similar because they act as a delayed mirror of the other.
 
 This shows that the grey relational coefficient is a more precise measure of similarity than correlation coefficients for gait data.
 
-- **OBS:** The grey relational coefficients follow four axioms and they are: Norm Interval, **Duality** Symmetric, Wholeness, and Approachability.
+- **OBS:** The grey relational coefficient follows four axioms, they are: Norm Interval, **Duality** Symmetric, Wholeness, and Approachability.
 
 
 ## References
