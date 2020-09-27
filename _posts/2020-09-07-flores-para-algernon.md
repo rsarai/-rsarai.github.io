@@ -31,7 +31,7 @@ As possíveis reflexões a serem feitas a partir desse livro são inúmeras, mui
 <a id="orgbf7049c"></a>
 
 ## Resumo
-#### Essa parte contém spoilers. Anoto os principais da história para evitar os efeitos do tempo.
+#### Essa parte contém spoilers. Anoto os principais pontos da história para evitar os efeitos do tempo.
 - Charlie é um homem de 32 anos com retardo mental. Ele trabalha em uma padaria e vai para uma escola especial de adultos retardados
 - Charlie é um aluno esforçado e apesar de suas dificuldades quer aprender e se tornar inteligente
 - Por intermédio de uma professora Charlie entra em um projeto de pesquisa que tem como objetivo aumentar a inteligência humana. Esse grupo desenvolveu uma cirurgia que aumentou a inteligência de ratos, entre eles Algernon, o único espécime que conseguiu se manter inteligente por mais tempo.

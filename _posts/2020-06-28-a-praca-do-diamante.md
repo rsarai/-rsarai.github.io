@@ -37,7 +37,7 @@ Por fim, fico feliz de ter lido esse livro, percebo ser necessário ler além do
 <a id="orgbf7049c"></a>
 
 ## Resumo
-#### Essa parte contém spoilers. Anoto os principais da história para evitar os efeitos do tempo.
+#### Essa parte contém spoilers. Anoto os principais pontos da história para evitar os efeitos do tempo.
 
 O livro começa quando Natalia é convidade para um baile na Praça do Diamante. Nesse baile ela conhece Quimet, um jovem bem-afeiçoado e impulsivo que naquela mesma noite declara que eles vão se casar e passa a chama-la de Colometa (que significa pombinha). Natalia que era noiva, termina o noivado com um jovem cozinheiro e eles, apaixonados, começam os preparativos para o casamento.
 
