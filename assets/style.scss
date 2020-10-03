@@ -731,7 +731,7 @@ Modules - reusable parts of our design
 }
 
 .pagination a, .pagination span {
-  padding: 7px 18px;
+  padding: 2px 18px;
   border: 1px solid #eee;
   margin-left: -2px;
   margin-right: -2px;
@@ -739,7 +739,12 @@ Modules - reusable parts of our design
   display: inline-block;
 }
 
+.pagination span {
+  color: lightgrey;
+}
+
 .pagination a {
+  color: #000;
   &:hover {
       background-color: #f1f1f1;
       color: #333;
