@@ -1,15 +1,16 @@
 ---
 layout: post
-title: PT 🇧🇷 Resumo - Flores Para Algernon
+title: 🇧🇷 Resumo - Flores Para Algernon
 categories: [books]
 excerpt: Alguns comentários sobre o livro Flores Para Algernon de Daniel Keyes
+hidden: true
 ---
 
 1.  [Visão Geral](#org853b7e9)
 2.  [Resumo (contém spoilers)](#orgbf7049c)
 
 <br>
-<img src="/images/2020-08-07-flores-para-algernon/20200907_092917-min.jpg" alt="Flores Para Algernon" style="width:400px;"/>
+<img src="/images/2020-08-07-flores-para-algernon/20200907_092917-min.jpg" alt="Foto do livro Flores Para Algernon" style="width:400px;"/>
 
 <a id="org853b7e9"></a>
 

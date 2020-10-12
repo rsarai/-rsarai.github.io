@@ -9,3 +9,6 @@ permalink: /ideas/
 - Maximum a-posterior rule
 - Gini Index
 - Write about my struggles with CircleCI
+- Generalized Degrees of Grey Incidence
+- Reading short stories. One per day
+- Write about my struggles with the piano

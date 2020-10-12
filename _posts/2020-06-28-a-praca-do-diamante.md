@@ -1,8 +1,9 @@
 ---
 layout: post
-title: PT 🇧🇷 Resumo - A Praça do Diamante
+title: 🇧🇷 Resumo - A Praça do Diamante
 categories: [books]
 excerpt: Um pequeno resumo do livro A Praça do Diamante de Mercè Rodoreda
+hidden: true
 ---
 
 1.  [Visão Geral](#org853b7e9)

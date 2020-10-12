@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grey Relational Coefficient with Medical Data
-categories: [grey theory, gait]
+categories: [grey theory, gait, research]
 excerpt: Grey Systems Theory is a relatively new field of study used to analyze uncertain and intricate systems. This post applies the Grey Relational Coefficient to gait data of patients with neurodegenerative diseases.
 ---
 
