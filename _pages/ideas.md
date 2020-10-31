@@ -12,3 +12,4 @@ permalink: /ideas/
 - Generalized Degrees of Grey Incidence
 - Reading short stories. One per day
 - Write about my struggles with the piano
+- Thornton's separability index
