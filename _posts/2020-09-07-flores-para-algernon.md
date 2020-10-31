@@ -4,6 +4,7 @@ title: 🇧🇷 Resumo - Flores Para Algernon
 categories: [books]
 excerpt: Alguns comentários sobre o livro Flores Para Algernon de Daniel Keyes
 hidden: true
+last_modified_at: 2020-10-31
 ---
 
 1.  [Visão Geral](#org853b7e9)
