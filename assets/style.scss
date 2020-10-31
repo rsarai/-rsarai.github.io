@@ -27,7 +27,7 @@ body {
   color: #fff;
   line-height: 1.7;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
   height: 100%;
 }
 
@@ -77,7 +77,7 @@ h4 {
 p {
   margin: 0 0 20px 0;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 14px;
 
   > .small {
     font-size: 12px;
@@ -130,6 +130,12 @@ table tr td :last-child {
 //     font-size: 3.333em;
 //     line-height: 0.75em;
 // }
+
+.entry {
+  p {
+    margin: 0 0 40px 0;
+  }
+}
 
 .detailed {
   padding: 0 30px;
@@ -275,10 +281,7 @@ p > img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: center;
-  }
+  text-align: center;
 }
 
 .site-avatar {
@@ -341,7 +344,7 @@ nav {
   font-family: $helveticaNeue;
   font-size: 14px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   width: 100%;
 
   @include mobile {
@@ -384,7 +387,7 @@ nav {
     /*border-left: 2px solid $gray;*/
     padding: 0.5em 1em;
     color: #282a36;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Courier New', Courier, monospace;
     background-color: white;
 
@@ -983,7 +986,7 @@ Modules - reusable parts of our design
     font-size: 1.25rem;
   }
   .cd-timeline-content p {
-    font-size: 16px;
+    font-size: 14px;
     font-size: 1rem;
   }
   .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
@@ -1011,7 +1014,7 @@ Modules - reusable parts of our design
     width: 100%;
     left: 122%;
     top: 6px;
-    font-size: 16px;
+    font-size: 14px;
     font-size: 1rem;
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content {
