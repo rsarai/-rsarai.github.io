@@ -6,6 +6,8 @@ permalink: /talks/
 
 <br>
 
+-  [🇧🇷 XAI resolvendo problemas da medicina](#org20201102)
+-  [🇬🇧 Privacy-preserving methods: Building secure projects](#org20201102001)
 -  [🇧🇷 Algoritmos](#org2021d5)
 -  [🇬🇧 Jane Doe will help you improve your project](#org2021d4)
 -  [🇧🇷 Como garantir proteção de dados pessoais no seu projeto](#org2021d3)
@@ -17,6 +19,25 @@ permalink: /talks/
 ----
 
 <br>
+
+
+<a id="org20201102"></a>
+
+## [PT 🇧🇷] XAI resolvendo problemas da medicina
+- _Rec.AI; Agosto 2020_
+- Ferramentas de inteligência artificial estão presentes nosso dia-a-dia em forma de propaganda, sugestão de anúncios, e até na realização de tarefas simples (quem não conhece Alexa?). Essas ferramentas vem sendo usadas em contextos cada vez mais complexos como reconhecimento de imagens, self-driving cars e na medicina. Machine Learning and Deep learning são os campos mais utilizados atingindo resultados que ultrapassam a compreensão teórica. No entanto em aplicações de natureza jurídica, médica e policial os resultados obtidos pelos modelos precisam ser transparentes, o usuário final precisa entender como as decisões são tomadas e saber quando elas estão erradas.  Nessa palestra vou mostrar como aplicar técnicas de Explainable AI (XAI) para resolver problemas médicos e como a utilização destes metodos podem trazer mais transparência. Irei falar das técnicas mais comuns (SHAP, LIME, Counterfactual Explanations, etc) e como elas podem ser usadas para ajudar no diagnóstico de pacientes com doenças neurodegenerativas.
+- <a href="https://github.com/rsarai/talks/tree/master/%5BREC.ai%202020%5D%20XAI%20resolvendo%20problemas%20da%20medicina" target="_blank">Resources</a>
+- <a href="https://www.youtube.com/watch?v=KmitX__zURw" target="_blank">Recording</a>
+
+
+<a id="org20201102001"></a>
+
+## [EN 🇬🇧] Privacy-preserving methods: Building secure projects
+- _PyCon; April 2020_
+- In this talk, we will approach two important topics: how to manage data whilst securing users’ personal information and how to do it in machine learning models. Exposing different techniques of anonymization and pseudonymization (k-anonymity, differential privacy, and others), showing that solving the anonymity problem is much more complex than replacing names, last names, and social security numbers.
+- <a href="https://github.com/rsarai/talks/tree/master/%5BPycon%202020%5D%20Privacy-preserving%20methods:%20Building%20secure%20projects" target="_blank">Resources</a>
+- <a href="https://www.youtube.com/watch?v=jKlJEPSZAYo" target="_blank">Recording</a>
+
 
 <a id="org2021d5"></a>
 
