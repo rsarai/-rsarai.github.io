@@ -172,7 +172,7 @@ Researches show that re-reading, note taking, and cramming are not effective stu
 
 <a id="org8a2a222"></a>
 
-# Databases
+## Databases
 
 -   What are the properties that guarantee accuracy and availability for databases? (ACID)
 -   Why are Referential Integrity constraints important?

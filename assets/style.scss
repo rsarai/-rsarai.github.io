@@ -24,7 +24,7 @@ body {
   background: $siteBackgroundColor;
   // font-family: -system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-family: Rokkitt, 'Courier New', Courier, monospace;
-  color: #fff;
+  color: $siteTextColor;
   line-height: 1.7;
   font-weight: 400;
   font-size: 14px;
@@ -33,7 +33,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 840px;
+  max-width: 640px;
   padding: 0 10px;
   width: 100%;
 }
@@ -41,7 +41,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   // font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-family: sans-serif;
-  color: #fff;
+  color: $siteTextColor;
   font-weight: bold;
 
   line-height: 1.7;
@@ -71,7 +71,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #fff;
+  color: $siteTextColor;
 }
 
 p {
@@ -356,7 +356,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #fff;
+    color: $siteTextColor;
     text-align: right;
     letter-spacing: 1px;
 
@@ -731,7 +731,7 @@ Modules - reusable parts of our design
   border: none;
   background-color: #4CAF50;
   border-radius: 50px;
-  color: #fff;
+  color: $siteTextColor;
 }
 
 .pagination a, .pagination span {
