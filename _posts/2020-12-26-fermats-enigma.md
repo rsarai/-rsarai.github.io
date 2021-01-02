@@ -5,7 +5,6 @@ categories: [books, mathematics, history]
 hidden: true
 ---
 
-# Table of Contents
 1.  [General Notes](#org79a4596)
 2.  [Summary Notes](#orge525cdf)
     1.  [Origins](#org2f5a7db)
@@ -14,8 +13,8 @@ hidden: true
     4.  [A turn of the desitiny](#org1f94025)
     5.  [The beginning of the end](#org3fd4c7e)
 
-
-
+<br>
+<img src="/images/fermats-enigma/fermat_book.jpg" alt="Foto do livro Fermat's Last Theorem" style="width:200px;"/>
 <a id="org79a4596"></a>
 
 # General Notes
