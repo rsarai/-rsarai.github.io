@@ -104,7 +104,7 @@ O livro tem um tom autobiográfico em que a trama principal é a vida de Enitan 
 <br>
 
 ## Resumo
-**Essa parte contém spoilers. Anoto os principais pontos da história para evitar os efeitos do tempo.**
+#### Essa parte contém spoilers. Anoto os principais pontos da história para evitar os efeitos do tempo.
 <a id="orgd2cddf0"></a>
 
 ### 1971

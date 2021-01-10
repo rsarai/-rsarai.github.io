@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /livros/
-title: 🇧🇷 Literatura
+title: Literatura
 ---
 
-<div class="page"><h1>🇧🇷 Literatura</h1></div>
+<div class="page"><h1>Literatura</h1></div>
 <br>
 <div class="posts">
     {% for category in site.categories %}

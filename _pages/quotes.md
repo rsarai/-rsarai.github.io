@@ -11,3 +11,5 @@ permalink: /quotes/
 > Scientism or the fallacy of measurement arises when researchers take a particular measurement or statistical procedure and simply assert it as their goal... don’t go making strong claims from analysis of data that you haven’t fully described or understood.          &ndash; Nassim Taleb some post on his blog
 
 > Sometimes it takes a little bit of courage and doubt, to push your boundaries out beyond your imagining.         &ndash; Imploding The Mirage, The Killers
+
+> Begin each day by telling yourself: Today I shall meet with interference, ingratitude, insolence, disloyalty, ill-will and selfishness - all of them due to the offenders' ignorance of what is good or evil.         &ndash; Marcus Aurelius

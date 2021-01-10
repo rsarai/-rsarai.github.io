@@ -13,3 +13,6 @@ permalink: /ideas/
 - Reading short stories. One per day
 - Write about my struggles with the piano
 - Thornton's separability index
+- Write about the details of self organizing maps
+- Regex Tries and how to speed up regexes
+- Do a remix with Taylor swift's song london boy + brega funk
