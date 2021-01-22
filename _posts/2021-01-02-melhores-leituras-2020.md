@@ -2,7 +2,7 @@
 layout: post
 title: 🇧🇷 Melhores Leituras de 2020
 categories: [books]
-hidden: true
+hidden: false
 last_modified_at:
 ---
 
