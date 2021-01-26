@@ -82,6 +82,15 @@ p {
   > .small {
     font-size: 12px;
   }
+
+  > .footnotes {
+    font-size: 11px;
+    vertical-align: super;
+    margin-left: 2px;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
 }
 
 table {
@@ -202,6 +211,15 @@ ul {
 
 ul > li > p {
   margin: unset;
+}
+
+ul > li > .footnotes {
+  font-size: 11px;
+  vertical-align: super;
+  margin-left: 2px;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
 }
 
 ol {
