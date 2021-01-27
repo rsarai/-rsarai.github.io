@@ -2,7 +2,7 @@
 layout: post
 title: The nearest neighbor rule
 categories: [machine learning]
-excerpt: Essay with my notes on nearest neighbor decision rule.
+excerpt: Essay with my notes on the nearest neighbor decision rule.
 last_modified_at:
 ---
 <br>
