@@ -13,15 +13,16 @@ permalink: /ideas/
 - Reading short stories. One per day
 - Write about my struggles with the piano
 - Thornton's separability index
-- Write about the details of self organizing maps
+- [doing] Write about the details of self organizing maps
 - Regex Tries and how to speed up regexes
 - Do a remix with Taylor swift's song london boy + brega funk
 - Write a blogpost to about the Trace Ratio Criterion and its relation to dimensionality reduction
 - Write a blog post about my piano quest this year
 - Write life advices to my cousings
-    - Like if you have no money and is not particularly bright
+    - Life advice if you are no beauty, no particularly bright, and poor.
 - Dealing with files to big for memory
 - Speed ups on postgres for large data
 - 5x2 CV
 - Pedro Páramo. O que eu achei do realismo mágico.
-- Human programming interface (based on: https://github.com/karlicoss/HPI)
+- Human programming interface
+    - based on: https://github.com/karlicoss/HPI
