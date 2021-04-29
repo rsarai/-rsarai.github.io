@@ -15,29 +15,27 @@
   </head>
 
   <body>
-    <div class="wrapper-container">
-      <div class="wrapper-masthead">
-        <div class="container">
-          <header class="masthead clearfix">
-            <nav>
-              <div>
-                <a href="{{ site.baseurl }}/">Home</a>
-                <a href="{{ site.baseurl }}/blog">Blog</a>
-                <a href="{{ site.baseurl }}/talks">Talks</a>
-                <a href="{{ site.baseurl }}/ideas">Ideas</a>
-                <a href="{{ site.baseurl }}/publications">Publications</a>
-                <a href="{{ site.baseurl }}/quotes">Quotes</a>
-                <a href="{{ site.baseurl }}/livros">Literature</a>
-                <a href="{{ site.baseurl }}/about">About</a>
-              </div>
-            </nav>
-          </header>
-        </div>
-      </div>
 
+    <div class="wrapper-container">
       <div class="wrapper-main">
-        <div id="main" role="main" class="container">
-          {{ content }}
+        <div id="main" role="main">
+          <div class="wrapper-vertical-layout">
+            <div style="max-width: 700px;">
+              {{ content }}
+            </div>
+            <div class="side-header">
+              <ul>
+                <li><a href="{{ site.baseurl }}/">Home</a></li>
+                <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+                <li><a href="{{ site.baseurl }}/talks">Talks</a></li>
+                <li><a href="{{ site.baseurl }}/ideas">Ideas</a></li>
+                <li><a href="{{ site.baseurl }}/publications">Publications</a></li>
+                <li><a href="{{ site.baseurl }}/quotes">Quotes</a></li>
+                <li><a href="{{ site.baseurl }}/livros">Literature</a></li>
+                <li><a href="{{ site.baseurl }}/about">About</a></li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
 

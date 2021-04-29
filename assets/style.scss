@@ -441,6 +441,23 @@ nav {
   position: relative;
 }
 
+.wrapper-vertical-layout {
+  display: flex;
+  margin: auto;
+  max-width: 850px;
+  justify-content: space-between;
+}
+
+.side-header {
+  width: 150px;
+  padding-top: 30px;
+
+  ul {
+    list-style-type: none;
+  }
+}
+
+
 .wrapper-main {
   padding-bottom: 200px;
 }
