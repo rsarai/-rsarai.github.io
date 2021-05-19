@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /livros/
+permalink: /books/
 title: Literatura
 ---
 
