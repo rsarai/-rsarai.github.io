@@ -442,15 +442,37 @@ nav {
 }
 
 .wrapper-vertical-layout {
-  display: flex;
-  margin: auto;
-  max-width: 850px;
-  justify-content: space-between;
+  @media only screen and (max-width: 425px) {
+    display: block;
+  }
+
+  @media only screen and (min-width: 426px) {
+    display: flex;
+    margin: auto;
+    max-width: 850px;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+  }
 }
 
 .side-header {
-  width: 150px;
-  padding-top: 30px;
+  @media only screen and (max-width: 425px) {
+    display: flex;
+    text-align: center;
+
+    ul {
+      padding: unset;
+    }
+
+    li {
+      display: inline-block;
+    }
+  }
+
+  @media only screen and (min-width: 426px) {
+    width: 150px;
+    padding-top: 30px;
+  }
 
   ul {
     list-style-type: none;
@@ -460,6 +482,7 @@ nav {
 
 .wrapper-main {
   padding-bottom: 200px;
+  margin: 10px 30px;
 }
 
 .wrapper-footer {
@@ -534,7 +557,8 @@ body:after {
 .post_date{
   text-align: left;
   color: #939aa1;
-  margin: 0 0 15px 0;
+  margin: 25px 10px 15px 0;
+  font-size: 16px;
 }
 
 .cd-container a {

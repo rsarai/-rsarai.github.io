@@ -1,10 +1,9 @@
 ---
-layout: default
-permalink: /books/
+layout: page
 title: Literatura
+permalink: /books/
 ---
 
-<div class="page"><h1>Literatura</h1></div>
 <br>
 <div class="posts">
     {% for category in site.categories %}
