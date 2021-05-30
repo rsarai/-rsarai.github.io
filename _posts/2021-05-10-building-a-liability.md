@@ -6,7 +6,6 @@ excerpt: Data is the cornerstone of many business models today, with this post I
 last_modified_at: 2021-05-18
 ---
 <br>
-<sup>_next posts will be linked below_</sup>
 -   **next:** [The Memex Building Blocks]({% link _posts/2021-05-18-the-memex-building-blocks.md %})
 
 <br><br>
@@ -24,5 +23,4 @@ A detailed list of similar projects can be found <a target="blank" href="https:/
 
 ------
 <br><br><br>
-<sup>_next posts will be linked below_</sup>
 -   **next:** [The Memex Building Blocks]({% link _posts/2021-05-18-the-memex-building-blocks.md %})

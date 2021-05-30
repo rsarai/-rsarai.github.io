@@ -3,12 +3,11 @@ layout: post
 title: The Memex Building Blocks
 categories: [memex]
 excerpt: Formalizing to myself the building blocks of the memex.
-last_modified_at:
+last_modified_at: 2021-05-29
 ---
 <br>
-<sup>_next posts will be linked below_</sup>
 -   **previous:** [Building myself a liability]({% link _posts/2021-05-10-building-a-liability.md %})
--   **next:**
+-   **next:** [The Memex Service API]({% link _posts/2021-05-29-the-memex-service-api.md %})
 
 <br><br>
 I'm building myself a place to store, query, and analyze all my personal data extracted from the multitude of devices available. A series of posts on this blog details the how.
@@ -84,9 +83,8 @@ Nothing major here, exporters rely on the presence of local files on specific fo
 Inspiration for exporters is based on the <a target="blank" href="https://github.com/karlicoss/HPI">HPI</a> package, been using for a while now and have nothing to complain about 👍🏾.
 
 <br>
-<sup>_next posts will be linked below_</sup>
 -   **previous:** [Building myself a liability]({% link _posts/2021-05-10-building-a-liability.md %})
--   **next:**
+-   **next:** [The Memex Service API]({% link _posts/2021-05-29-the-memex-service-api.md %})
 
 <br>
 
