@@ -7,7 +7,7 @@ last_modified_at:
 ---
 <br>
 -   **previous:** [The Memex Building Blocks]({% link _posts/2021-05-18-the-memex-building-blocks.md %})
--   **next:**
+-   **next:** [The MVP]({% link _posts/2021-06-13-the-mvp.md %})
 <br><br>
 
 1.  [Principles](#org574f1ea)
@@ -117,7 +117,7 @@ One must crawl before run, this document describes the initial steps needed to b
 
 <br>
 -   **previous:** [The Memex Building Blocks]({% link _posts/2021-05-18-the-memex-building-blocks.md %})
--   **next:**
+-   **next:** [The MVP]({% link _posts/2021-06-13-the-mvp.md %})
 
 <br>
 

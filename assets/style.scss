@@ -213,7 +213,7 @@ ul > li > p {
   margin: unset;
 }
 
-ul > li > .footnotes {
+ul > li > .footnotes, sup {
   font-size: 11px;
   vertical-align: super;
   margin-left: 2px;
