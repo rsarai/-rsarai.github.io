@@ -20,6 +20,7 @@ Leaving the utility issue behind me, I decided to put myself through the exercis
 A detailed list of similar projects can be found <a target="blank" href="https://beepb00p.xyz/hpi.html#links">here</a> and below are the ones I stumble with:
 
 -   <a target="blank" href="https://github.com/adri/memex">Memex</a> by Adrian Philipp.
+-   <a target="blank" href="https://github.com/thesephist/monocle">Monocle</a> by Linus.
 
 ------
 <br><br><br>
