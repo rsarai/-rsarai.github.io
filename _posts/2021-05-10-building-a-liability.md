@@ -21,6 +21,8 @@ A detailed list of similar projects can be found <a target="blank" href="https:/
 
 -   <a target="blank" href="https://github.com/adri/memex">Memex</a> by Adrian Philipp.
 -   <a target="blank" href="https://github.com/thesephist/monocle">Monocle</a> by Linus.
+-   <a target="blank" href="https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/">Stephen Wolfram post</a> on his system.
+-   <a target="blank" href="https://github.com/Andreilys/personal_dashboard">personal dashboard</a> by Andrei Lyskov
 
 ------
 <br><br><br>
