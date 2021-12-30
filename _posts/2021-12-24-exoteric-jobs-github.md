@@ -49,28 +49,26 @@ name: Build
 on:
   push:
     branches:
-
--   "\*"
--   "****/****"
+      - "\*"
+      - "****/****"
 
 jobs:
   test-linux:
     runs-on: ubuntu-latest
     strategy:
-        matrix:
-            python-version: [3.8.6]
+      matrix:
+        python-version: [3.8.6]
     steps:
-
--   uses: actions/checkout@v2
--   name: Set up Python ${{ matrix.python-version }}
-    uses: actions/setup-python@v2
-    with:
-      python-version: ${{ matrix.python-version }}
--   name: Install dependencies
-    run: |
-      pip install -r test-requirements.txt
--   run: |
-    python3 -m pytest
+      - uses: actions/checkout@v2
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          pip install -r test-requirements.txt
+      - run: |
+        python3 -m pytest
 
 ```
 
@@ -85,7 +83,7 @@ The first improvement one can make is to cache dependencies, since they don't ch
 
 ```yml
 
--   name: Cache install test-requirements
+  - name: Cache install test-requirements
     uses: actions/cache@master
     id: cache-pip
     with:
@@ -109,7 +107,7 @@ One different approach is to cache the whole installed packages and by proxy the
 
 ```yml
 
--   name: Cache install test-requirements
+  - name: Cache install test-requirements
     uses: actions/cache@master
     id: cache-pip
     with:
@@ -134,34 +132,35 @@ What happens if you need to compile and build a lib on every job to run your tes
 
 ```yml
 
--   name: Cache libpostal
+  - name: Cache libpostal
     uses: actions/cache@v2
     id: libpostal-cache
     with:
-         path: ${{ env.CACHE_DIR }}     # custom variable
-        key: ${{ runner.os }}-libpostal-cache
--   name: Install libpostal
-     if: steps.libpostal-cache.outputs.cache-hit != 'true'
-     run: |
-         sudo apt-get update
-         sudo apt-get install curl autoconf automake libtool pkg-config
-         mkdir -p ${{ env.CACHE_DIR }}
-         rm -rf ${{ env.CACHE_DIR }}/libpostal
-         cd \({{ env.CACHE_DIR }}
-                git clone https://github.com/openvenues/libpostal
-                cd libpostal
-                ./bootstrap.sh
-                ./configure --datadir=\){{ env.CACHE_DIR }}
-         make -j4
-         sudo make install
-         sudo ldconfig
--   name: Install test-requirements
-    run: |
-        cd ${{ env.CACHE_DIR }}/libpostal
+      path: ${{ env.CACHE_DIR }}     # custom variable
+      key: ${{ runner.os }}-libpostal-cache
+  - name: Install libpostal
+      if: steps.libpostal-cache.outputs.cache-hit != 'true'
+      run: |
+        sudo apt-get update
+        sudo apt-get install curl autoconf automake libtool pkg-config
+        mkdir -p ${{ env.CACHE_DIR }}
+        rm -rf ${{ env.CACHE_DIR }}/libpostal
+        cd ${{ env.CACHE_DIR }}
+        git clone https://github.com/openvenues/libpostal
+        cd libpostal
+        ./bootstrap.sh
+        ./configure --datadir=${{ env.CACHE_DIR }}
+        make -j4
         sudo make install
-        sudo ldconfig ${{ env.CACHE_DIR }}
-        cd $PROJECT_ROOT   # custom variable
-        pip install -r test-requirements.txt
+        sudo ldconfig
+
+  - name: Install test-requirements
+    run: |
+      cd ${{ env.CACHE_DIR }}/libpostal
+      sudo make install
+      sudo ldconfig ${{ env.CACHE_DIR }}
+      cd $PROJECT_ROOT   # custom variable
+      pip install -r test-requirements.txt
 
 ```
 \*OBS: CACHE_DIR and PROJECT_ROOT are custom variables only necessary to ease the visualization.
@@ -177,8 +176,8 @@ Docker is extremely useful in most situations, in this case, I'm using it to set
 
 ```yml
 
--   run: |
-    docker-compose up &#x2013;detach postgres
+  - run: |
+    docker-compose up --detach postgres
     python3 -m pytest
     docker-compose down
 
@@ -190,8 +189,7 @@ For the code above to work you will need a docker-compose.yml file with a Postgr
 Postgres:
   image: postgres:latest
   ports:
-
--   "5432:5432"
+    - "5432:5432"
 
 ```
 
