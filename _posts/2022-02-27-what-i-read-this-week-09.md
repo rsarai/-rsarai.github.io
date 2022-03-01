@@ -3,7 +3,7 @@ layout: post
 title: Weekly Readings 2022-09
 categories: [notes]
 excerpt: All the good stuff of the week.
-last_modified_at:
+last_modified_at: 2022-02-28
 ---
 
 - [How Do We Learn Complex Skills? Understanding ACT-R Theory](https://www.scotthyoung.com/blog/2022/02/15/act-r/)
