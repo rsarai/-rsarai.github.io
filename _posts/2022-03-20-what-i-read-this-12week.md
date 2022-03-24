@@ -3,7 +3,7 @@ layout: post
 title: Weekly Readings 2022-12
 categories: [notes]
 excerpt: All the good stuff of the week.
-last_modified_at: 2022-03-20
+last_modified_at:
 ---
 
 - [Gall's Law](https://matt-rickard.com/galls-law/)
