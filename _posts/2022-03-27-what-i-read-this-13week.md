@@ -24,5 +24,5 @@ last_modified_at:
 - [Peacetime CEO/Wartime CEO](https://future.a16z.com/peacetime-ceo-wartime-ceo/)
     - I'm no close to being a CEO, but I found the peace/war analogy excellent to explain critical moments to the team. Sometimes people tend to cling to processes and rules when the times ask for flexibility and experimentation.
 
-- [How to really learn <programming language>](https://bitfieldconsulting.com/golang/how)
+- [How to really learn any programming language](https://bitfieldconsulting.com/golang/how)
     - The post is titled "How to really learn Go" but I found it very appropriate to any programming language
