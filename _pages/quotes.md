@@ -39,3 +39,27 @@ permalink: /quotes/
 
 > "Only Thing We Have to Fear Is Fear Itself"
 
+> "The first rule is that you can't really know anything if you just remember isolated facts and try and bang 'em back. If the facts don't hang together on a latticework of theory, you don't have them in a usable form." - Charlie Munger
+
+> "Specialization is for insects." - Robert A. Heinlein
+
+> "A man who fears suffering is already suffering from what he fears." - Montaigne
+
+> "Life is short—the fruit of this life is a good character and acts for the common good." - Marcus Aurelius
+
+> "Objective judgment, now at this very moment. Unselfish action, now at this very moment. Willing acceptance—now at this very moment—of all external events. That’s all you need." —MARCUS AURELIUS
+
+> "Learning is not just a normal work activity, it is the work."
+
+> "Moderation in all things and somethings not at all."
+
+> "The body should be treated rigorously, that it may not be disobedient to the mind." Seneca
+
+> "Would I do this thing, even if I'm doomed to fail?"
+
+> Surfing is such an amazing concept. You’re taking on Nature with a little stick and saying, “I’m gonna ride you!” And a lot of times Nature says, “No you’re not!” and crashes you to the bottom. —Jolene Blalock
+
+> "The Stoics say: it’s not that death is in the future, but that we’re dying every minute, every day. Every time we see the sun set, every time we get a haircut, every time we watch a few seconds tick on the clock—you have to remind yourself: that is time you will never get back. Time is not just our most precious resource, but it’s tick, tick, ticking away—it is non-renewable." - Ryan Holliday
+
+> "If you are ever tempted to look for outside approval, realize that you have compromised your integrity. If you need a witness, be your own." - Epictetus
+
