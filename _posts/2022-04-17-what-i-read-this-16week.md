@@ -13,7 +13,7 @@ last_modified_at:
 - [Hackers Gaining Power of Subpoena Via Fake “Emergency Data Requests”](https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/)
     - Software companies are easily sharing private information from customers to hackers using compromise email accounts of pollice officers.
 - [How to Be a Teapot in Django](https://adamj.eu/tech/2022/04/01/how-to-be-a-teapot-in-django/)
-    - The real learning here is the [HTCPCP](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) protocol which is a HTTP extension for controlling coffee pots. Seriously thinking about adding /teapot url to this site: https://www.google.com/teapot
+    - The real learning here is the [HTCPCP](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) protocol which is a HTTP extension for controlling coffee pots. Seriously thinking about adding /teapot url to this site: <a href="https://www.google.com/teapot">google/teapot</a>
 - React Performance
     - Performance issues are easily identified in backend applications, however for react this is far from true.
     - [Does my React app render too often?](https://alexsidorenko.com/blog/react-app-render-often/)
@@ -26,4 +26,4 @@ last_modified_at:
 - [Making Things Better (With Enabling Constraints and POPCORN)](https://cutlefish.substack.com/p/making-things-better-with-enabling?s=r)
     - Long post which I'm still diggesting.
 - [Idiomatic Redux: Designing the Redux Toolkit Listener Middleware](https://blog.isquaredsoftware.com/2022/03/designing-rtk-listener-middleware/)
-    - I'm working on a small project to test this functionality. The post is also a great overview on collaborative design happens on open-source.
+    - I'm working on a small project to test this functionality. The post is also a great overview on how collaborative design happens on open-source.
