@@ -13,7 +13,7 @@ last_modified_at:
 - [Hackers Gaining Power of Subpoena Via Fake “Emergency Data Requests”](https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/)
     - Software companies are easily sharing private information from customers to hackers using compromise email accounts of pollice officers.
 - [How to Be a Teapot in Django](https://adamj.eu/tech/2022/04/01/how-to-be-a-teapot-in-django/)
-    - The real learning here is the [HTCPCP](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) protocol which is a HTTP extension for controlling coffee pots. Seriously thinking about adding /teapot url to this site: <a href="https://www.google.com/teapot">google/teapot</a>
+    - The real learning here is the [HTCPCP](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) protocol which is a HTTP extension for controlling coffee pots. Seriously thinking about adding a `/teapot` url to this site: <a href="https://www.google.com/teapot">google/teapot</a>
 - React Performance
     - Performance issues are easily identified in backend applications, however for react this is far from true.
     - [Does my React app render too often?](https://alexsidorenko.com/blog/react-app-render-often/)
