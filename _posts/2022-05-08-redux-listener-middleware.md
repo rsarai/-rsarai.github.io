@@ -3,7 +3,7 @@ layout: post
 title: Experimenting with Redux Listener Middleware
 categories: [frontend]
 excerpt:
-last_modified_at:
+last_modified_at: 2022-05-09
 ---
 
 For a while now, Redux is working on improving its image with the development of [Redux Toolkit](https://redux-toolkit.js.org/). The old conception that redux was too verbose, hard to onboard, hard to learn, and unnecessary for most applications is in fact becoming something of the past. The Redux Toolkit is full of utilities to ease development providing simpler ways to set up a store, create reducers, and deal with immutable updates, allowing you to do more with less code. Some highlight features are:
