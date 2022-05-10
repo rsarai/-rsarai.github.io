@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redux Listener Middleware
+title: Experimenting with Redux Listener Middleware
 categories: [frontend]
 excerpt:
 last_modified_at:
