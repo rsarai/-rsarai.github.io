@@ -3,7 +3,7 @@ layout: post
 title: Building myself a liability
 categories: [memex]
 excerpt: Data is the cornerstone of many business models today, with this post I start a journey to own and analyze my data.
-last_modified_at: 2021-05-18
+last_modified_at: 2022-05-29
 ---
 <br>
 -   **next:** [The Memex Building Blocks]({% link _posts/2021-05-18-the-memex-building-blocks.md %})
@@ -26,6 +26,7 @@ A detailed list of similar projects can be found <a target="blank" href="https:/
 -   <a target="blank" href="https://mmry.io/blog/20210807-the-second-coming-of-the-search-engine">mmry</a> a paid tool by @jnnksbrt
 -   <a target="blank" href="https://github.com/amirgamil/apollo">Apollo</a> by @amirgamil
 -   <a target="blank" href="https://dogsheep.github.io/">Dogsheep</a> by @simonwillison
+-   <a target="blank" href="https://github.com/nicbou/timeline">timeline</a> by @nicbou
 
 ------
 <br><br><br>
