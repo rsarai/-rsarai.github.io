@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Browsers degraded performance in background tabs
-categories: [software]
+categories: [software, web]
 excerpt: This post describes how I discovered that the load time for interactions in background tabs is 22x to 56x slower
 last_modified_at:
 ---
