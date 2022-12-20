@@ -3,8 +3,12 @@ layout: post
 title: The architecture of open source applications [Asterisk]
 categories: [software, open source]
 excerpt: This post summarizes Chapter 1 of the book The architecture of open source applications - Vol I
-last_modified_at:
+last_modified_at: 2022-12-20
 ---
+
+<br>
+
+_This post summarizes Chapter 1 of the book The architecture of open source applications - Vol I_
 
 
 Asterisk is a project designed to manage communication systems, its general usage is for telephony, but phones can be replaced by any other type of communication channels. An initial look left the impression of a very traditional project, on a very traditional area (telephony), using a very traditional language (C language).

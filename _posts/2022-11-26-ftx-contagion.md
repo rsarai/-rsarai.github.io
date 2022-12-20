@@ -3,7 +3,7 @@ layout: post
 title: A second pass on the FTX collapse
 categories: [crypto]
 excerpt: In this post I collect my notes on the contagion of the FTX collapse.
-last_modified_at:
+last_modified_at: 2022-12-20
 ---
 
 Below are some diagrams I made while following the chain of events that took place in November.
@@ -75,3 +75,7 @@ Hedge funds locked on iliquidy assets. While FTX, Genesis, Gemini appeared to do
 - <https://twitter.com/fintechfrank/status/1594820487582023680>
 - <https://twitter.com/TradFiWhale/status/1595235832297914369>
 - <https://twitter.com/fintechfrank/status/1595205526127771648>
+- <https://www.mollywhite.net/etc/ftx-contagion>
+- <https://newsletter.protos.com/issues/sam-bankman-fried-lies-1475377>
+- <https://newsletter.mollywhite.net/p/everything-sam-bankman-fried-is-doing>
+- <https://web3isgoinggreat.com/?id=sam-bankman-fried-arrested>
