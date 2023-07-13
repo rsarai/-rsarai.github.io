@@ -63,3 +63,14 @@ permalink: /quotes/
 
 > "If you are ever tempted to look for outside approval, realize that you have compromised your integrity. If you need a witness, be your own." - Epictetus
 
+> "Fear is met and destroyed with courage." - James F. Bell
+
+> "You may be deceived if you trust too much, but you will live in torment if you do not trust enough." - Frank Crane
+
+> "Confession is always weakness. The grave soul keeps its own secrets and takes its own punishment in silence." - Dorothy Dix
+
+> "When I let go of what I am, I become what I might be." - Lao Tzu
+
+> "All the art of living lies in a fine mingling of letting go and holding on." - Havelock Ellis
+
+> "Anything you cannot relinquish when it has outlived its usefulness possesses you, and in this materialistic age a great many of us are possessed by our possessions." - Peace Pilgrim
